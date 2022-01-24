@@ -12,3 +12,6 @@
 ## Links:
 1. [My Github Link](https://github.com/srisathyamamidala)
 2. [My Linkedin](https://www.linkedin.com/in/sathya-mamidala-363b6a201/)
+
+## My image:
+<img src="/images/sathya.jpg" width="380" height="480">
